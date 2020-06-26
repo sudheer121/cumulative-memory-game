@@ -8,8 +8,8 @@
   color: #feceab;
 }
 .container-fluid,.row,.col-3,.col-6 {
-  border : solid;
-  border-width:1px;
+/*   border : solid;
+  border-width:1px; */
   text-align:center;
 }
 
