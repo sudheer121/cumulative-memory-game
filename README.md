@@ -25,7 +25,9 @@ alt="Link" width="240" height="180" border="10" /></a>
 
 <div align="center">
  
-[Go to game website](<div align="center">
+[Go to game website](https://sudheer121.github.io/cumulative-memory-game/)
+
+</div>
 
 ----
 
